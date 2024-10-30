@@ -12,8 +12,6 @@ import javafx.scene.control.TextField;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.control.cell.CheckBoxTableCell;
 import javafx.beans.property.SimpleBooleanProperty;
-
-
 import java.time.LocalDate;
 
 public class SprintController {
